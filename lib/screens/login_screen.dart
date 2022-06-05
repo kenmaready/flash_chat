@@ -29,11 +29,13 @@ class _LoginScreenState extends State<LoginScreen> {
         child: loading
             ? const CircularProgressIndicator()
             : Column(mainAxisAlignment: MainAxisAlignment.center, children: [
-                Hero(
-                  tag: 'logo',
-                  child: SizedBox(
-                    height: 180,
-                    child: Image.asset('images/logo.png'),
+                Flexible(
+                  child: Hero(
+                    tag: 'logo',
+                    child: SizedBox(
+                      height: 180,
+                      child: Image.asset('images/logo.png'),
+                    ),
                   ),
                 ),
                 const Text('Login Screen'),
