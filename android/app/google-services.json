@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "534380493437",
+    "project_id": "flash-chat-9f023",
+    "storage_bucket": "flash-chat-9f023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534380493437:android:13847d77e1ad924b520f14",
+        "android_client_info": {
+          "package_name": "com.maready.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534380493437-s0qfrb24tpm9f9pgs0s03qhrluki76k5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8MDUHueiLJaaU45L9TtZPQYFG6T3NMqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534380493437-s0qfrb24tpm9f9pgs0s03qhrluki76k5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "534380493437-cra2fj1ab9p6ft49p0hiakii3rf22rn8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.maready.flashChat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
